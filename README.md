@@ -6,6 +6,7 @@ Kaggle_Titanic_machinelearning
 
 # Data
 너무나 유명한 Kaggle의 머신러닝 Competition Titanic survive의 데이터가 소스입니다.
+
 해당링크 : https://www.kaggle.com/c/titanic
 
 # How to run
