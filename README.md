@@ -10,4 +10,4 @@ Just open Titanic.py and run it as a program that you can handle.
 # Results
 The results were not good. It was confirmed that applying the predicted value to the predictive model was not efficient.
 
-![asda](https://user-images.githubusercontent.com/59387983/83747002-eecfed80-a69a-11ea-8d6f-b60a58326a5c.PNG)
+![asda](https://user-images.githubusercontent.com/59387983/83747188-3e161e00-a69b-11ea-9e1d-446b2c123268.PNG)
