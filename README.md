@@ -5,7 +5,7 @@ Predict Kaggle Titanic Survival by Machine Learning. In particular, it solves th
 In general, it is advantageous to delete a column with many missing values as training data of the model. However, I tried to solve the missing value problem by predicting the missing value by machine learning and filling in the value.
 
 # How to run
-Just open Titanic.py and run it as a program that you can handle.
+All source code is in Titanic.py and you can run it as an available program.
 
 # Results
 The results were not good. It was confirmed that applying the predicted value to the predictive model was not efficient.
