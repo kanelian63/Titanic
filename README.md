@@ -4,6 +4,15 @@ Predict Kaggle Titanic Survival by Machine Learning. In particular, it solves th
 # Details
 In general, it is advantageous to delete a column with many missing values as training data of the model. However, I tried to solve the missing value problem by predicting the missing value by machine learning and filling in the value.
 
+# Heat Map
+![Figure_2](https://user-images.githubusercontent.com/59387983/83992613-db1ed280-a98b-11ea-966c-149fa4d6abb9.png)
+
+Age을 예측하기 위해 Age와 어떤 변수와 상관관계가 있는지 알아보기 위해 나타낸 Heat Map
+
+![Figure_1](https://user-images.githubusercontent.com/59387983/83992615-dc4fff80-a98b-11ea-88bb-70108d03b67f.png)
+
+예측한 Age를 Train, Test Dataset에 추가하고, 어떤 변수가 생존과 상관관계가 있는지 알아보기 위해 Heat Map 출력
+
 # How to run
 All source code is in Titanic.py and you can run it as an available program.
 
