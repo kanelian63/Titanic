@@ -15,14 +15,23 @@ Age을 예측하기 위해 Age와 어떤 변수와 상관관계가 있는지 알
 
 # Results
 XGBRF
+
 ![XGBRF](https://user-images.githubusercontent.com/59387983/83993464-7c0e8d00-a98e-11ea-8930-01983816a0c9.PNG)
+
 LGBM
+
 ![LGBM](https://user-images.githubusercontent.com/59387983/83993466-7ca72380-a98e-11ea-8846-2d4da5bd74b7.PNG)
+
 SVM
+
 ![svm](https://user-images.githubusercontent.com/59387983/83993470-7ca72380-a98e-11ea-873c-4af332dd5c71.PNG)
+
 KNN
+
 ![KNN](https://user-images.githubusercontent.com/59387983/83993471-7d3fba00-a98e-11ea-88f3-2cc978fbba19.PNG)
+
 RF
+
 ![RF](https://user-images.githubusercontent.com/59387983/83993472-7dd85080-a98e-11ea-952c-6b429cccff2c.PNG)
 
 
