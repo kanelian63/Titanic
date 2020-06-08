@@ -9,7 +9,7 @@ In general, it is advantageous to delete a column with many missing values as tr
 
 Age을 예측하기 위해 Age와 어떤 변수와 상관관계가 있는지 알아보기 위해 나타낸 Heat Map
 
-![Figure_1](https://user-images.githubusercontent.com/59387983/83992615-dc4fff80-a98b-11ea-88bb-70108d03b67f.png)
+![fssfsf](https://user-images.githubusercontent.com/59387983/83993144-92681900-a98d-11ea-8289-80bdd422bf9a.png)
 
 예측한 Age를 Train, Test Dataset에 추가하고, 어떤 변수가 생존과 상관관계가 있는지 알아보기 위해 Heat Map 출력
 
