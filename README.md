@@ -34,7 +34,7 @@ LGBM
 
 ![RF](https://user-images.githubusercontent.com/59387983/83993472-7dd85080-a98e-11ea-952c-6b429cccff2c.PNG)
 
-일반적으로 LGBM의 
+일반적으로 LGBM의 성능이 가장 높게 나온다.
 
 # How to run
 All source code is in Titanic.py and you can run it as an available program.
