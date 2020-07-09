@@ -1,4 +1,4 @@
-# Goal of Project
+# Titanic Machine Learning from Disaster
 Predict Kaggle Titanic Survival by Machine Learning. In particular, it solves the problem of missing values by predicting columns with many missing values by machine learning. https://www.kaggle.com/c/titanic
 
 # Details
